@@ -83,7 +83,8 @@ theme_mode:   # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: https://png2.cleanpng.com/sh/64e7a1f88ab8e55b891817622ea10814/L0KzQYm3V8I2N5R0epH0aYP2gLBuTgdifJZ3e9H1b4Kwdr32lBVze158eeZucnPyfLF8kr1ndJD8feR8LYfkhLb5gB9td6MyhAd7LX3sg8TwjB4uPZM6UKs9MEHkR4LsV8gvOmU2T6QBMUK0RYS5VcMyP2I4Tqo9NT7zfri=/kisspng-watercolor-flowers-watercolour-flowers-watercolor-our-mission-5b589401a71e78.2417261215325317136845.png
+
 
 # boolean type, the global switch for ToC in posts.
 toc: true

@@ -1,4 +1,4 @@
-# Initial Coding Experience
+# Initial Coding Experiences
 Here you will find some code that I have written during the introductory year of my BA for the courses *Programming Techniques in Computational Linguistics 1 & 2*: 
 
 * ## [Processing a CSV File](https://za-aftab.github.io/posts/Beginning/#processing-a-csv-file-1)

@@ -1,6 +1,3 @@
-
-# Introduction
-
 Hello and welcome to my portfolio where you get a glimpse of my programming skills!
 You can expect to find the following on this site:
 

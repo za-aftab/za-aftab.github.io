@@ -1,9 +1,9 @@
-Hello and welcome to my portfolio where you get a glimpse of my programming skills!
-You can expect to find the following on this site:
+Hello and welcome to my portfolio where you get a glimpse of my programming skills! Please note that the most important advances can be traced through the blog posts or under the tab [About](https://za-aftab.github.io/about/).
+You can expect to find the following information on this site:
 
 * Education
 * Technical Skills
-* My Coding Examples
+* Progress made during my Studies
 
 ## Education
 
@@ -33,11 +33,7 @@ The title for my final thesis was *'IT-Forensiker vs. Künstliche Intelligenz: W
 * Coding with Data Formats: ```XML```, ```CSV```, ```JSON```
 * Code Hosting Platforms: ```GitHub```, ```GitLab```
 
-
-## My Coding Examples
-
-Under the tab [Coding Examples](https://za-aftab.github.io/codes/) you can find some of my more complex codes that I have programmed during the second semester of my bachelor's degree.
-
-
-
-
+## Contact Information
+- Email: zainab.aftab@icloud.com
+- LinkedIn: https://www.linkedin.com/in/zainab-aftab-6bb4872b2/
+- GitHub: https://github.com/za-aftab

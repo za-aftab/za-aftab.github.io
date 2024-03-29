@@ -7,37 +7,26 @@ order: 4
 > Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
 {: .prompt-tip }
 
-# Introduction
+# About Me
 
-My name is Zainab Aftab, a BA student majoring in Computational Linguistics and Languge Technology at the University of Zurich.
+My name is Zainab Aftab, a BA student majoring in *Computational Linguistics and Languge Technology* at the University of Zurich. 
+While combining my minor *Communication Sciences and Media Research* with my major may seem unconventional, the decision behind it was purposeful. 
+In high school years, I discovered the field of social media analysis, which increasingly became integral in studying public sentiment towards politicians and predicting election results.
+Although extensive data can offer quantitative insights, data analysis alone does not address the questions surrounding the motivations of individuals, nor does it explain the reasons behind their behaviours online. 
+This is precisely why I aimed to bridge this gap by merging these two subjects. In addition to my education, I take pleasure in capturing moments through photography, reading history and much more :)
 
-## Education
 
-### University of Zurich
+While this portfolio showcases my more significant milestones under the tab [Home](https://za-aftab.github.io/), I'll provide additional links below to repositories containing my assignments for those who may also be interested in them.
 
-I'm currently pursuing my bachelor's degree in *Computational Linguistics and Language Technology* with a minor in *Communication Sciences and Media Research* at the University of Zurich.
+# Repository Links 
+- [Machine Translation](https://github.com/za-aftab/Machine-Translation)
+- [Techniques of Semantic Analysis](https://github.com/za-aftab/Techniques-of-Semantic-Analysis)
+- [Text Mining: Paper Distilling](https://github.com/za-aftab/Research-Paper-Distilling)
 
-####  Main Courses taken
-* Mathematical Foundation of Computational Linguistics
-* Machine Learning
-* Text Mining
-* NLP in Medicine
-* Programming Techniques in Computational Linguistics I & II
-* Advanced Statistics and Data Analysis
+### For the sake of completeness, the links from the posts are listed below once again:
+- [Programming Project 2023](https://github.com/za-aftab/Programming-Project)
 
-### Kantonsschule Zurich Nord
 
-I graduated from the Kantonsschule Zurich Nord with 'Economics and Law' as my specialisation.
-The title for my final thesis was *'IT-Forensiker vs. Künstliche Intelligenz: Wer ist besser?'*.
-
-## Technical Skills
-
-* Programming Languages: ```Python```, ```SQL```, ```JavaScript```
-* Data Analysis and Machine Learning Libraries: ```Pandas```, ```Seaborn```, ```PyTorch```
-* NLP Toolkits: ```spaCy```, ```Prodigy```
-* Machine Translation Toolkit: ```JoeyNMT```
-* Coding with Data Formats: ```XML```, ```CSV```, ```JSON```
-* Code Hosting Platforms: ```GitHub```, ```GitLab```
 
 ## Contact Information
 - Email: zainab.aftab@icloud.com

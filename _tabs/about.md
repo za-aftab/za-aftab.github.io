@@ -9,9 +9,9 @@ order: 4
 
 # About Me
 
-My name is Zainab Aftab, a BA student majoring in *Computational Linguistics and Languge Technology* at the University of Zurich. 
+As stated in the [Introduction post](https://za-aftab.github.io/posts/Introduction/), my name is Zainab Aftabs and I am a BA student majoring in *Computational Linguistics and Languge Technology* at the University of Zurich. 
 While combining my minor *Communication Sciences and Media Research* with my major may seem unconventional, the decision behind it was purposeful. 
-In high school years, I discovered the field of social media analysis, which increasingly became integral in studying public sentiment towards politicians and predicting election results.
+In my high school years, I discovered the field of social media analysis, which increasingly became integral in studying public sentiment towards politicians and predicting election results.
 Although extensive data can offer quantitative insights, data analysis alone does not address the questions surrounding the motivations of individuals, nor does it explain the reasons behind their behaviours online. 
 This is precisely why I aimed to bridge this gap by merging these two subjects. In addition to my education, I take pleasure in capturing moments through photography, reading history and much more :)
 

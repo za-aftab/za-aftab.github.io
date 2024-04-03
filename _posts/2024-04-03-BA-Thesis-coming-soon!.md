@@ -1,0 +1,3 @@
+I am on the verge of achieving a significant milestone - the completion my Bachelor’s degree! 
+During the course of my studies I was introduced to various subfields of computational linguistics, making it challenging to decide on which area to focus my bachelor’s thesis. 
+After careful consideration, I decided on an exploratory analysis of Large Language Models regarding automatic summarisations. Additional information will be provided by the end of this summer - stay tuned! 

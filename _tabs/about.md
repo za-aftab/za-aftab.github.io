@@ -25,6 +25,7 @@ While this portfolio showcases my more significant milestones under the tab [Hom
 
 ### For the sake of completeness, the links from the posts are listed below once again:
 - [Programming Project 2023](https://github.com/za-aftab/Programming-Project)
+- [LREC-COLING 2024: Paper Submission](https://github.com/za-aftab/NLP-in-Medicine)
 
 
 
